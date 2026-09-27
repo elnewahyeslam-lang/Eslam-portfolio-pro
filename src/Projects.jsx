@@ -25,7 +25,7 @@ Built with React, Hooks & modern UI.</p>
                 </div>
                 <div className="tags">
                     <h2>React</h2>
-                    <h2>CSS</h2>
+                    <h2>Local Storage<h2>
                     <h2>Hooks</h2>
                     <div className="links">
                     <a href="https://dashboard-nu-nine-45.vercel.app" target="blank">View project</a>
@@ -67,7 +67,7 @@ Built with React & modern CSS.</p>
                 </div>
                 <div className="tags">
                     <h2>Local Storage</h2>
-                    <h2>CSS</h2>
+                    <h2>Validation</h2>
                     <h2>JavaScript</h2>
                     <div className="links">
                     <a href="https://login-page-iota-gilt.vercel.app" target="blank">View project</a>
