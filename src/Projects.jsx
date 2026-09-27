@@ -17,7 +17,11 @@ function Projects(){
                 <img src={dashboardImage} />
                 <div className="descript">
                 <h1> Dashboard Tasks</h1>
-                <p>A smart task manager dashboard Dynamic Featuring state cards,task progress charts, and a recent tasks overview . Built with React and modern UI design </p>
+                <p>Dynamic task dashboard with live stats,
+auto-updating progress charts & smart
+filtering. Every action recalculates totals
+instantly with Local Storage persistence.
+Built with React, Hooks & modern UI.</p>
                 </div>
                 <div className="tags">
                     <h2>React</h2>
@@ -34,7 +38,11 @@ function Projects(){
                 <img src={storeImage} />
                 <div className="descript">
                 <h1>E-Commerce</h1>
-                <p>A premium e-commerce experience with React and Api and elegant design, smooth animations, and seamless shopping flow dynamic cart functionality and responsive</p>
+                <p>Premium dynamic store with live API,
+smart filtering, loading & error states,
+persistent cart that auto-calculates total,
+add/remove & quantity control built-in.
+Seamless shopping flow with React + API.</p>
                 </div>
                 <div className="tags">
                     <h2>React</h2>
@@ -51,7 +59,11 @@ function Projects(){
                 <img src={loginImage} />
                 <div className="descript">
                 <h1>Login page</h1>
-                <p> A responsive login form with form validation and local storage Functionality, built with HTML,CSS,and JavaScript,featuring a clean Ui and smooth user experience</p>
+                <p> Dynamic auth system with real-time
+validation, error handling & persistent
+login state via Local Storage. Features
+protected logic, clean UI & smooth UX.
+Built with React & modern CSS.</p>
                 </div>
                 <div className="tags">
                     <h2>Local Storage</h2>
