@@ -25,7 +25,7 @@ Built with React, Hooks & modern UI.</p>
                 </div>
                 <div className="tags">
                     <h2>React</h2>
-                    <h2>Local Storage<h2>
+                    <h2>Local Storage</h2>
                     <h2>Hooks</h2>
                     <div className="links">
                     <a href="https://dashboard-nu-nine-45.vercel.app" target="blank">View project</a>
