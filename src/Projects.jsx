@@ -39,7 +39,7 @@ Built with React, Hooks & modern UI.</p>
                 <div className="descript">
                 <h1>E-Commerce</h1>
                 <p>Premium dynamic store with live API,
-smart filtering, loading & error states,
+smart filtering, loading ,
 persistent cart that auto-calculates total,
 add/remove & quantity control built-in.
 Seamless shopping flow with React + API.</p>
@@ -63,7 +63,7 @@ Seamless shopping flow with React + API.</p>
 validation, error handling & persistent
 login state via Local Storage. Features
 protected logic, clean UI & smooth UX.
-Built with React & modern CSS.</p>
+Built with React </p>
                 </div>
                 <div className="tags">
                     <h2>Local Storage</h2>
