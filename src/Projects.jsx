@@ -62,7 +62,7 @@ Seamless shopping flow with React + API.</p>
                 <p> Dynamic auth system with real-time
 validation, error handling & persistent
 login state via Local Storage. Features
-protected logic, clean UI & smooth UX.
+protected logic, clean UI
 Built with React </p>
                 </div>
                 <div className="tags">
