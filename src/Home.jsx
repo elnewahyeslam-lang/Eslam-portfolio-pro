@@ -7,7 +7,7 @@ function Home(){
             <div className="name">
                 <h2>Hello, I'm</h2>
                 <h1>ESLAM <span>MOHAMED</span></h1>
-                <h2>Front-End Developer | React Developer</h2>
+                <h2>Front-End Developer | React , Next.js Developer</h2>
                 <p>I build modern,responsive and user-friendly web applications. <br/>  I love turning ideas real projects and I'm always eager to learn new technologies</p>
             </div>
             <div className="contact">
